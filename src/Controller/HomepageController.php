@@ -16,7 +16,7 @@ class HomepageController extends AbstractController
      * @param LoggerInterface $logger
      * @return Response
      */
-    public function index(Master $transform,LoggerInterface $logger)
+    public function index(Master $transform, LoggerInterface $logger)
     {
         //if user wants to capitalize
         $transform = $transform->transform;

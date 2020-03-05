@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f44acd5-7777-48f4-875d-132d9b120c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Services/Capitalize.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/Dash.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/Master.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Services/Transform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Master.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Master.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/Transform.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/Transform.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,7 @@
       <updated>1583333272694</updated>
       <workItem from="1583333273934" duration="2645000" />
       <workItem from="1583349175030" duration="2877000" />
-      <workItem from="1583361231100" duration="12227000" />
+      <workItem from="1583361231100" duration="14444000" />
     </task>
     <servers />
   </component>

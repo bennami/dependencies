@@ -9,7 +9,7 @@ class Master
 
     public $transform;
 
-    public function __construct( Capitalize $Capitalize,Dash $Dasher)
+    public function __construct( Capitalize $Capitalize, Dash $Dasher)
     {
         if(isset($_POST['submit'])){
 
